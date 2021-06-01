@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lerob28
+- 👀 I’m interested in code
+- 🌱 I’m currently learning web and mobile Development
+- 💞️ I’m looking to collaborate on the security of Databases
+- 📫 How to reach me : njeunkweborel@gmail.com
